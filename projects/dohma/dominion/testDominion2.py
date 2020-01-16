@@ -25,7 +25,7 @@ supply_order = testUtility.get_supply_order()
 supply = testUtility.pick_random_cards(box)
 
 # The supply always has these cards
-testUtility.populate_supply(supply, player_names, nV, nC)
+# testUtility.populate_supply(supply, player_names, nV, nC)
 
 # initialize the trash
 trash = []
